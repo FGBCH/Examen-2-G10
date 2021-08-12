@@ -2,7 +2,7 @@ Saludos cordiales.
 
 Las subcarpetas contienen la siguiente información:
 
-/Examen_2 Se encuentra la gama de archivos solicitados correspondiente al exámen.
+/Examen_2 Se encuentra la gama de archivos solicitados correspondientes al exámen.
 
 /Examen_2/datos_sin_procesar: En el archivo dataset.xlsx se encuentran todos los datos sin procesar en formato .xlsx.
 
